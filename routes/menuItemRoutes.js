@@ -69,7 +69,7 @@ router.get('/',async(req,res)=>{//isbar hamlog sirf data de rahe hai [to post na
 
 
 //abb ham router ko export kar dete hai(for further use at any place)
-
+//comment added for testing purposes
 module.exports = router;
 
 //ek bar ham dekhte hai personRoutes ke through kaise kaam karta hai
